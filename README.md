@@ -6,6 +6,27 @@ This is the week lab report of my tasks that i was assigned at my intern at Netw
 # 🔐 [Cybersecurity Lab Environment Setup]
 Building an isolated virtual lab for penetration testing and ethical hacking practice.
 
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Skill-Cybersecurity-404040?style=flat-square&labelColor=C00000" />
+  <img src="https://img.shields.io/badge/Ver-Virtualbox%20v7.2-0070C0?style=flat-square&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-v2026.2-E87500?style=flat-square&labelColor=000000&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Skill-Linux-404040?style=flat-square&labelColor=C00000" />
+  <img src="https://img.shields.io/badge/Network-10.0.2.15%2F24-238F89?style=flat-square&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Penetration%20Testing-C00000?style=flat-square&labelColor=000000&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Skill-Virtualization-404040?style=flat-square&labelColor=C00000" />
+  <img src="https://img.shields.io/badge/GitHub-404040?style=flat-square&labelColor=0070C0&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-404040?style=flat-square&labelColor=C00000&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/NetworkWalks-404040?style=flat-square&labelColor=C00000" />
+  <img src="https://img.shields.io/badge/Ethical%20Hacking-E87500?style=flat-square&labelColor=000000&logo=kalilinux&logoColor=white" />
+</p>
+
+
+
+
+
+
+
 ## 📌 Project Overview
 [This project focuses on setting up a virtual cybersecurity laboratory using VirtualBox and Kali Linux to create a controlled testing environment , alogn this I also experimented a little about virutal network and howw they work in different configurations .]
 
@@ -48,8 +69,11 @@ Building an isolated virtual lab for penetration testing and ethical hacking pra
 
 ## 👤 Author
 **Arrush Vir Singh**
+
 Cybersecurity Intern | B.Tech IT Student at AKGEC
+
 LinkedIn: https://www.linkedin.com/in/arrush-vir-singh-6b3328378/
+
 GitHub: https://github.com/iamarrushvirsingh-ops 
 
 ## 📌 Project Information
