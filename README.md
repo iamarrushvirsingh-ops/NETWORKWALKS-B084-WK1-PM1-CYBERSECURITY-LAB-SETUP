@@ -28,7 +28,7 @@ Building an isolated virtual lab for penetration testing and ethical hacking pra
 
 
 ## 📌 Project Overview
-[This project focuses on setting up a virtual cybersecurity laboratory using VirtualBox and Kali Linux to create a controlled testing environment , alogn this I also experimented a little about virutal network and howw they work in different configurations .]
+[This project focuses on setting up a virtual cybersecurity laboratory using VirtualBox and Kali Linux to create a controlled testing environment , alogn this I also experimented a little about virutal network and howw they work in different configurations . I also set up juice shop in dokcer running on ,y host os and also set up metasploitable and configured kali to be able to connnect with all .]
 
 ## 🎯 Objectives
 * Install and configure VirtualBox.
